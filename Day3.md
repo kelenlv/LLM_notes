@@ -1,4 +1,4 @@
-# Day 3: 基于 InternLM 和 LangChain 搭建知识库
+# 🌟Day 3: 基于 InternLM 和 LangChain 搭建知识库
 
 # 1. 大模型开发范式
 
@@ -6,7 +6,7 @@
     1. 知识时效性
     2. 专业能力受限：垂类大模型
     3. 定制化成本高
-2. 开发范式
+2. 🌟开发范式
     
     ![Untitled](figs/d3/Untitled.png)
     
