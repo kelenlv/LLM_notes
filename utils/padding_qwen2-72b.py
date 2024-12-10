@@ -25,4 +25,4 @@ for i, k in enumerate(sd):
         sd[k] = new_v
 
 # this is a very large file; make sure your RAM is enough to load the model
-torch.save(sd, '/save_path/checkpoint-padding.bin')
+torch.save(sd, '/save_path/pytorch_model.bin') #pytorch_model.bin or model.safetensors
