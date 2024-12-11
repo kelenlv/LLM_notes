@@ -11,9 +11,9 @@
 
 ### 1. 复现课程知识库助手搭建过程
 
-![Untitled](figs/d3_0/Untitled.png)
+![Untitled](../figs/d3_0/Untitled.png)
 
-![Untitled](figs/d3_0/Untitled%201.png)
+![Untitled](../figs/d3_0/Untitled%201.png)
 
 ### 2. 垂直领域专业问答助手搭建与部署
 
@@ -21,7 +21,7 @@
     1. [https://github.com/billvsme/law_ai/tree/master/Law-Book](https://github.com/billvsme/law_ai/tree/master/Law-Book)
 2. 核心代码改动
     
-    ![Untitled](figs/d3_0/Untitled%202.png)
+    ![Untitled](../figs/d3_0/Untitled%202.png)
     
     ```jsx
     python create_db.py #更新向量库
