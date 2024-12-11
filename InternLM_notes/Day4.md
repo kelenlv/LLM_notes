@@ -2,45 +2,45 @@
 
 # 1. 🌟Finetune简介：针对LLM构建下游应用
 
-![Untitled](figs/d4/Untitled.png)
+![Untitled](../figs/d4/Untitled.png)
 
 1. **增量预训练微调**
     1. 扩大知识面
     2. system&input 留空
         
-        ![Untitled](figs/d4/Untitled%201.png)
+        ![Untitled](../figs/d4/Untitled%201.png)
         
     3. LoRA & QLoRA
         1. LoRA模型：Adapter
             
-            ![Untitled](figs/d4/Untitled%202.png)
+            ![Untitled](../figs/d4/Untitled%202.png)
             
-            ![Untitled](figs/d4/Untitled%203.png)
+            ![Untitled](../figs/d4/Untitled%203.png)
             
 - 2.  **指令跟随微调**
     1. 规范答题格式/指令
         
-        ![Untitled](figs/d4/Untitled%204.png)
+        ![Untitled](../figs/d4/Untitled%204.png)
         
     2. 具体实施（微调阶段）
         1. **对话模板的角色指定**（由微调框架实施）
             
-            ![Untitled](figs/d4/Untitled%205.png)
+            ![Untitled](../figs/d4/Untitled%205.png)
             
-            ![Untitled](figs/d4/Untitled%206.png)
+            ![Untitled](../figs/d4/Untitled%206.png)
             
         2. 微调原理
             
-            ![Untitled](figs/d4/Untitled%207.png)
+            ![Untitled](../figs/d4/Untitled%207.png)
             
 
 # 2. XTuner简介
 
-![Untitled](figs/d4/Untitled%208.png)
+![Untitled](../figs/d4/Untitled%208.png)
 
 # 3. XTuner功能：8GB显存玩转LLM
 
-![Untitled](figs/d4/Untitled%209.png)
+![Untitled](../figs/d4/Untitled%209.png)
 
 1. Flash Attention
 2. DeepSpeed ZeRO
