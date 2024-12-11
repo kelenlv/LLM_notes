@@ -2,9 +2,9 @@
 
 # 1. 大模型部署背景
 
-![Untitled](figs/d5/Untitled.png)
+![Untitled](../figs/d5/Untitled.png)
 
-![Untitled](figs/d5/Untitled%201.png)
+![Untitled](../figs/d5/Untitled%201.png)
 
 <aside>
 💡 挑战：
@@ -19,13 +19,13 @@
 - 非移动端
 - 创新点：turbomind (C++)
 
-![Untitled](figs/d5/Untitled%202.png)
+![Untitled](../figs/d5/Untitled%202.png)
 
-![Untitled](figs/d5/Untitled%203.png)
+![Untitled](../figs/d5/Untitled%203.png)
 
-![Untitled](figs/d5/Untitled%204.png)
+![Untitled](../figs/d5/Untitled%204.png)
 
-![Untitled](figs/d5/Untitled%205.png)
+![Untitled](../figs/d5/Untitled%205.png)
 
 <aside>
 💡 量化好处
@@ -34,21 +34,21 @@
 - 加快推理速度
 </aside>
 
-![Untitled](figs/d5/Untitled%206.png)
+![Untitled](../figs/d5/Untitled%206.png)
 
 - AWQ算法思想：重要参数不量化
 
-![Untitled](figs/d5/Untitled%207.png)
+![Untitled](../figs/d5/Untitled%207.png)
 
-![Untitled](figs/d5/Untitled%208.png)
+![Untitled](../figs/d5/Untitled%208.png)
 
-![Untitled](figs/d5/Untitled%209.png)
+![Untitled](../figs/d5/Untitled%209.png)
 
-![Untitled](figs/d5/Untitled%2010.png)
+![Untitled](../figs/d5/Untitled%2010.png)
 
-![Untitled](figs/d5/Untitled%2011.png)
+![Untitled](../figs/d5/Untitled%2011.png)
 
-![Untitled](figs/d5/Untitled%2012.png)
+![Untitled](../figs/d5/Untitled%2012.png)
 
 # 3. 实践环节
 
@@ -72,7 +72,7 @@
         1. **方案实践**
             - 模型推理/服务：TurboMind
             
-            ![Untitled](figs/d5/Untitled%2013.png)
+            ![Untitled](../figs/d5/Untitled%2013.png)
             
             - API 服务和 Client ：分场景
                 - OpenAI 那样的 HTTP 接口服务：TurboMind推理 + API 服务
@@ -121,4 +121,4 @@ Reference:
 
 [视频](https://www.bilibili.com/video/BV1iW4y1A77P)
 
-![Untitled](figs/d5/Untitled%2014.png)
+![Untitled](../figs/d5/Untitled%2014.png)
