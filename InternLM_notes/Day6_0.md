@@ -16,8 +16,8 @@
     
 - 结果
 
-![Untitled](figs/d6_0/Untitled.png)
+![Untitled](../figs/d6_0/Untitled.png)
 
-![Untitled](figs/d6_0/Untitled%201.png)
+![Untitled](../figs/d6_0/Untitled%201.png)
 
-![Untitled](figs/d6_0/Untitled%202.png)
+![Untitled](../figs/d6_0/Untitled%202.png)
