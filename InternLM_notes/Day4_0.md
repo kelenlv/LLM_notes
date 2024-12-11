@@ -26,7 +26,7 @@
     1. 环境+XTuner
 2. **数据准备：生成json文件**
     
-    ![Untitled](figs/d4_0/Untitled.png)
+    ![Untitled](../figs/d4_0/Untitled.png)
     
 3. **配置准备**
     1. 下载模型`InternLM-chat-7B`
@@ -35,36 +35,36 @@
     1. 会在训练完成后，输出用于验证的Sample output
         1. 从**白教**到**学会**是四万条样本对抗预训练模型的过程，one epoch已经可以学的差不多了
             
-            ![Untitled](figs/d4_0/Untitled%201.png)
+            ![Untitled](../figs/d4_0/Untitled%201.png)
             
-            ![Untitled](figs/d4_0/Untitled%202.png)
+            ![Untitled](../figs/d4_0/Untitled%202.png)
             
-            ![Untitled](figs/d4_0/Untitled%203.png)
+            ![Untitled](../figs/d4_0/Untitled%203.png)
             
-            ![Untitled](figs/d4_0/Untitled%204.png)
+            ![Untitled](../figs/d4_0/Untitled%204.png)
             
-            ![Untitled](figs/d4_0/Untitled%205.png)
+            ![Untitled](../figs/d4_0/Untitled%205.png)
             
         2. second epoch
             
-            ![Untitled](figs/d4_0/Untitled%206.png)
+            ![Untitled](../figs/d4_0/Untitled%206.png)
             
         3. third epoch
             
-            ![Untitled](figs/d4_0/Untitled%207.png)
+            ![Untitled](../figs/d4_0/Untitled%207.png)
             
 5. **微调后参数转换/合并**
     1. 训练后的pth格式参数转Hugging Face格式
         
-        ![Untitled](figs/d4_0/Untitled%208.png)
+        ![Untitled](../figs/d4_0/Untitled%208.png)
         
     2. Merge模型参数
         
-        ![Untitled](figs/d4_0/Untitled%209.png)
+        ![Untitled](../figs/d4_0/Untitled%209.png)
         
 6. **网页DEMO**
     
-    ![Untitled](figs/d4_0/Untitled%2010.png)
+    ![Untitled](../figs/d4_0/Untitled%2010.png)
     
 
 Reference：
