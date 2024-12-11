@@ -12,7 +12,7 @@
 
 ### 1. **TurboMind 推理+命令行本地对话**
 
-![Untitled](figs/d5_0/Untitled.png)
+![Untitled](../figs/d5_0/Untitled.png)
 
 Reference:
 
