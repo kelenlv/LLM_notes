@@ -8,31 +8,31 @@
     3. 定制化成本高
 2. 🌟开发范式
     
-    ![Untitled](figs/d3/Untitled.png)
+    ![Untitled](../figs/d3/Untitled.png)
     
     1. RAG：挂知识库，不需要GPU
         
-        ![Untitled](figs/d3/Untitled%201.png)
+        ![Untitled](../figs/d3/Untitled%201.png)
         
     2. Finetune：数据+卡
 
 # 2. RAG应用：LangChain
 
-![Untitled](figs/d3/Untitled%202.png)
+![Untitled](../figs/d3/Untitled%202.png)
 
-![Untitled](figs/d3/Untitled%203.png)
+![Untitled](../figs/d3/Untitled%203.png)
 
 # 3. 构建向量数据库
 
-![Untitled](figs/d3/Untitled%204.png)
+![Untitled](../figs/d3/Untitled%204.png)
 
 # 4. 构建知识库助手
 
-![Untitled](figs/d3/Untitled%205.png)
+![Untitled](../figs/d3/Untitled%205.png)
 
-![Untitled](figs/d3/Untitled%206.png)
+![Untitled](../figs/d3/Untitled%206.png)
 
-![Untitled](figs/d3/Untitled%207.png)
+![Untitled](../figs/d3/Untitled%207.png)
 
 # 5. web demo部署
 
